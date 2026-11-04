@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Fragments Hub</string>
+
+    <!-- Fragment 1 -->
+    <string name="welcome_title">Welcome!</string>
+    <string name="welcome_subtitle">Let\'s set up your profile in a few quick steps.</string>
+    <string name="get_started">Get Started</string>
+
+    <!-- Fragment 2 -->
+    <string name="basic_info_title">Basic Info</string>
+    <string name="basic_info_subtitle">Tell us a little about yourself.</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="gender_label">Gender</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    <string name="hint_age">Age (optional)</string>
+    <string name="hint_university">University (optional)</string>
+    <string name="continue_label">Continue</string>
+    <string name="finish_label">Finish</string>
+
+    <!-- Fragment 3 -->
+    <string name="review_title">Review</string>
+    <string name="greeting_name">Hello, %1$s!</string>
+    <string name="review_subtitle">Please confirm before finishing.</string>
+    <string name="confirm_agreement">I confirm I have read and agree to use the app.</string>
+
+    <!-- Validation / feedback -->
+    <string name="error_name">Please enter your name</string>
+    <string name="error_email_invalid">Please enter a valid email address</string>
+    <string name="error_age">Please enter a valid age</string>
+    <string name="onboarding_complete">Onboarding complete. Welcome, %1$s!</string>
+</resources>
